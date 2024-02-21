@@ -39,6 +39,7 @@ import os
 import datetime           as dt
 from   netCDF4        import Dataset
 
+# append path to import the module
 
 # ----- inner setup ----------------
 
